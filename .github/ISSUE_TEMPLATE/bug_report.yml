@@ -1,5 +1,5 @@
 name: 🐞 Bug Report
-description: 버그를 제보합니다
+description: 버그를 제보합니다.
 title: "[BUG] "
 labels: 
   - 🐞 bug
@@ -15,8 +15,8 @@ body:
   - type: textarea
     id: bug-environment
     attributes:
-      label: 🖥️ 환경
-      description: 필요하다면, 버그가 어떤환경에서 발생했는지 알려주세요. (선택 사항)
+      label: 🖥️ 발생 환경
+      description: 버그가 어떤환경에서 발생했는지 알려주세요. (선택 사항)
       placeholder: OS, 네트워크 상태, Browser Agent 등등
 
   - type: textarea
@@ -32,7 +32,7 @@ body:
     id: steps-to-reproduce
     attributes:
       label: 📈 재현 절차
-      description: 필요하다면, 문제를 재현하기 위한 단계 또는 설명을 작성해주세요. (선택 사항)
+      description: 문제를 재현하기 위한 단계 또는 설명을 작성해주세요. (선택 사항)
       placeholder: |
         1. 첫 번째 절차
         2. 두 번째 절차
@@ -41,8 +41,8 @@ body:
   - type: textarea
     id: additional-context
     attributes:
-      label: 👍🏻 스크린샷, 첨부파일 등 추가 정보
-      description: 문제를 해결하는 데 도움이 될 추가 정보를 입력해주세요. (선택 사항)
+      label: 👍🏻 추가 정보
+      description: 문제를 해결하는 데 도움이 될 스크린샷, 첨부파일, 링크 등 추가 정보를 작성해주세요. (선택 사항)
 
   - type: markdown
     attributes:
