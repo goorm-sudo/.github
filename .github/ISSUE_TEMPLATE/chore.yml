@@ -2,7 +2,7 @@ name: ⚙️ Chore
 description: 비즈니스 로직과 직접적인 관련이 없는 작업을 수행합니다. (환경 설정, 의존성 업데이트 등)
 title: "[CHORE] "
 labels: 
-  - chore
+  - ⚙️ chore
 body:
   - type: markdown
     attributes:
