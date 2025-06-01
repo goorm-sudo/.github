@@ -1,7 +1,8 @@
 name: ✨ Feature
 description: 새로운 기능을 구현하거나 기존 기능을 수정합니다.
 title: "[FEATURE] "
-labels: ["✨ feature"]
+labels: 
+  - "✨ feature"
 body:
   - type: markdown
     attributes:

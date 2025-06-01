@@ -1,7 +1,8 @@
 name: 🪏 Refactor
 description: 기능 변화 없이 코드를 수정합니다. (코드 구조 개선, 가독성 향상 등)
 title: "[REFACTOR] "
-labels: ["🪏 refactor"]
+labels:
+  - "🪏 refactor"
 body:
   - type: markdown
     attributes:
