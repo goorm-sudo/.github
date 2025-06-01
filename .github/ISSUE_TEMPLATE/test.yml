@@ -2,7 +2,7 @@ name: ✅ Test
 description: 테스팅 작업을 구성하고, 수행합니다.
 title: "[TEST] "
 labels: 
-  - "✅ test"
+  - test
 body:
   - type: markdown
     attributes:
