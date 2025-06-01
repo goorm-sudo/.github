@@ -1,8 +1,8 @@
-name: 🙋🏻 Question
+name: 🙋🏻 Question
 description: 코드 또는 진행 방향 등 궁금한 내용을 질문합니다.
 title: "[QUESTION] "
 labels: 
-  - 🙋🏻 question
+  - '🙋🏻 question'
 body:
   - type: markdown
     attributes:
