@@ -2,7 +2,7 @@ name: 📝 Docs
 description: 코드 또는 애플리케이션과 관련한 문서를 작성합니다.
 title: "[DOCS] "
 labels: 
-  - '📝 docs'
+  - 📝 docs
 body:
   - type: markdown
     attributes:
