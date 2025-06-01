@@ -1,8 +1,7 @@
 name: 🪏 Refactor
 description: 기능 변화 없이 코드를 수정합니다. (코드 구조 개선, 가독성 향상 등)
 title: "[REFACTOR] "
-labels: 
-  - 🪏 refactor
+labels: ["🪏 refactor"]
 body:
   - type: markdown
     attributes:
@@ -50,6 +49,7 @@ body:
       value: |
         ---
         ### 이슈를 생성하기 전에 아래 내용을 확인해주세요:
+        - 제목이 작업의 내용을 잘 표현하고 있습니다.
         - 작업자를 지정했습니다.
         - Label이 단 하나만 선택되어 있습니다.
         - 프로젝트를 연결했습니다.

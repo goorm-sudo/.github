@@ -1,8 +1,7 @@
 name: ✅ Test
 description: 테스팅 작업을 구성하고, 수행합니다.
 title: "[TEST] "
-labels: 
-  - ✅ test
+labels: ["✅ test"]
 body:
   - type: markdown
     attributes:
@@ -21,7 +20,7 @@ body:
     validations:
       required: true
 
-  - type: textarea
+  - type: input
     id: task-description
     attributes:
       label: 📄 테스팅 개요
@@ -52,6 +51,7 @@ body:
       value: |
         ---
         ### 이슈를 생성하기 전에 아래 내용을 확인해주세요:
+        - 제목이 테스팅의 내용을 잘 표현하고 있습니다.
         - 작업자를 지정했습니다.
         - Label이 단 하나만 선택되어 있습니다.
         - 프로젝트를 연결했습니다.

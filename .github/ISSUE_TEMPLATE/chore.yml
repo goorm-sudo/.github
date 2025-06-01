@@ -1,8 +1,7 @@
 name: ⚙️ Chore
 description: 비즈니스 로직과 직접적인 관련이 없는 작업을 수행합니다. (환경 설정, 의존성 업데이트 등)
 title: "[CHORE] "
-labels: 
-  - ⚙️ chore
+labels: ["⚙️ chore"]
 body:
   - type: markdown
     attributes:
@@ -43,6 +42,7 @@ body:
       value: |
         ---
         ### 이슈를 생성하기 전에 아래 내용을 확인해주세요:
+        - 제목이 작업의 내용을 잘 표현하고 있습니다.
         - 작업자를 지정했습니다.
         - Label이 단 하나만 선택되어 있습니다.
         - 프로젝트를 연결했습니다.
