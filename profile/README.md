@@ -25,11 +25,11 @@
       </td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/Yunsung-Jo">조윤성 (PM)</a></td>
-      <td align="center"><a href="https://github.com/Jimin730">신지민 (PL)</a></td>
-      <td align="center"><a href="https://github.com/karlislepark">박범진 (DBA)</a></td>
-      <td align="center"><a href="https://github.com/Ogu1208">김민아 (DevOps)</a></td>
-      <td align="center"><a href="https://github.com/Friox">이승훈 (CM)</a></td>
+      <td align="center"><a href="https://github.com/Yunsung-Jo">조윤성<br>(PM)</a></td>
+      <td align="center"><a href="https://github.com/Jimin730">신지민<br>(PL)</a></td>
+      <td align="center"><a href="https://github.com/karlislepark">박범진<br>(DBA)</a></td>
+      <td align="center"><a href="https://github.com/Ogu1208">김민아<br>(DevOps)</a></td>
+      <td align="center"><a href="https://github.com/Friox">이승훈<br>(CM)</a></td>
       <td align="center"><a href="https://github.com/EndlessMilkyway">김영렬</a></td>
       <td align="center"><a href="https://github.com/chanwonlee">이찬원</a></td>
     </tr>
